@@ -1,24 +1,13 @@
 [
 	{
-		"id": "ser_001",
-		"release_year": "2024",
-		"category_tags": ["دراما", "جريمة"],
-		"main_scene": {
-			"title_ar": "المسلسل الأول",
-			"title_en": "The First Series",
-			"main_rating": 9.0,
-			"poster_url": "",
-			"imdb_logo_url": ""
-		},
+		"category_tags": [
+			"دراما",
+			"جريمة"
+		],
 		"details_scene": {
-			"description": "مسلسل درامي مشوق.",
 			"ad_url": "",
-			"rating_section": {
-				"app_users_rating": 9.0,
-				"highest_historical_rating": 10.0
-			},
 			"cast": [],
-			"special_items": [],
+			"description": "مسلسل درامي مشوق.",
 			"episodes": [
 				{
 					"number": "1",
@@ -30,7 +19,45 @@
 					"title": "الحلقة الثانية",
 					"url": ""
 				}
-			]
-		}
+			],
+			"rating_section": {
+				"app_users_rating": 9.0,
+				"highest_historical_rating": 10.0
+			},
+			"special_items": []
+		},
+		"id": "ser_001",
+		"main_scene": {
+			"imdb_logo_url": "",
+			"main_rating": 9.0,
+			"poster_url": "",
+			"title_ar": "المسلسل الأول",
+			"title_en": "The First Series"
+		},
+		"release_year": "2024"
+	},
+	{
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"cast": [],
+			"description": "",
+			"episodes": [],
+			"rating_section": {
+				"app_users_rating": 0.0,
+				"highest_historical_rating": 10.0
+			},
+			"special_items": [],
+			"video_url": ""
+		},
+		"id": "11",
+		"main_scene": {
+			"imdb_logo_url": "",
+			"main_rating": 0.0,
+			"poster_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/photos/file_60.jpg",
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": ""
 	}
 ]
