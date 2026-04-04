@@ -1,71 +1,71 @@
 {
-	"movies": [
-		{
-			"id": "mov_001",
-			"title": "الفيلم الأول",
-			"title_en": "The First Movie",
-			"year": 2024,
-			"rating": 8.5,
-			"genre": "أكشن، مغامرة",
-			"description": "قصة رائعة عن المغامرة والإثارة.",
-			"cover_url": "",
-			"video_url": ""
-		}
-	],
-	"series": [
-		{
-			"id": "ser_001",
-			"title": "المسلسل الأول",
-			"title_en": "The First Series",
-			"year": 2024,
-			"rating": 9.0,
-			"genre": "دراما، جريمة",
-			"description": "مسلسل درامي مشوق.",
-			"cover_url": "",
-			"video_url": "",
-			"episodes": [
-				{
-					"number": 1,
-					"title": "الحلقة الأولى",
-					"url": ""
-				},
-				{
-					"number": 2,
-					"title": "الحلقة الثانية",
-					"url": ""
-				}
-			]
-		}
-	],
 	"manga_complete": [
 		{
+			"cover_url": "",
+			"description": "مانغا رائعة مكتملة.",
+			"genre": "شونن، أكشن",
 			"id": "mng_001",
+			"rating": 9.2,
 			"title": "المانغا المكتملة الأولى",
 			"title_en": "First Complete Manga",
-			"year": 2023,
-			"rating": 9.2,
-			"genre": "شونن، أكشن",
-			"description": "مانغا رائعة مكتملة.",
-			"cover_url": ""
+			"year": 2023.0
 		}
 	],
 	"manga_ongoing": [
 		{
-			"id": "mng_002",
-			"title": "المانغا المستمرة الأولى",
-			"title_en": "First Ongoing Manga",
-			"year": 2024,
-			"rating": 8.8,
-			"genre": "سينن، خيال",
-			"description": "مانغا مستمرة رائعة.",
 			"cover_url": "",
+			"description": "مانغا مستمرة رائعة.",
 			"episodes": [
 				{
-					"number": 1,
+					"number": 1.0,
 					"title": "الفصل الأول",
 					"url": ""
 				}
-			]
+			],
+			"genre": "سينن، خيال",
+			"id": "mng_002",
+			"rating": 8.8,
+			"title": "المانغا المستمرة الأولى",
+			"title_en": "First Ongoing Manga",
+			"year": 2024.0
+		}
+	],
+	"movies": [
+		{
+			"cover_url": "",
+			"description": "قصة رائعة عن المغامرة والإثارة.",
+			"genre": "أكشن، مغامرة",
+			"id": "mov_001",
+			"rating": 8.5,
+			"title": "الفيلم الأول",
+			"title_en": "The First Movie",
+			"video_url": "",
+			"year": 2024.0
+		}
+	],
+	"series": [
+		{
+			"cover_url": "",
+			"description": "مسلسل درامي مشوق.",
+			"episodes": [
+				{
+					"number": 1.0,
+					"title": "الحلقة الأولى",
+					"url": ""
+				},
+				{
+					"number": 2.0,
+					"title": "الحلقة الثانية",
+					"url": ""
+				}
+			],
+			"genre": "دراما، جريمة",
+			"id": "ser_001",
+			"rating": 9.0,
+			"title": "المسلسل الأول",
+			"title_en": "The First Series",
+			"video_url": "",
+			"year": 2024.0
 		}
 	]
 }
