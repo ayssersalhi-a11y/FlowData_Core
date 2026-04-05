@@ -124,5 +124,45 @@
 			"title_en": ""
 		},
 		"release_year": ""
+	},
+	{
+		"category_tags": [
+			"دراما",
+			"جريمة"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"background_url": "",
+			"cast": [],
+			"description": "مسلسل درامي مشوق.",
+			"episodes": [
+				{
+					"number": 1,
+					"title": "الحلقة الأولى",
+					"url": ""
+				},
+				{
+					"number": 2,
+					"title": "الحلقة الثانية",
+					"url": ""
+				}
+			],
+			"highest_rank_logo_url": "",
+			"rating_section": {
+				"app_users_rating": 9.0,
+				"highest_historical_rating": 10.0
+			},
+			"special_items": [],
+			"video_url": ""
+		},
+		"id": 1,
+		"main_scene": {
+			"imdb_logo_url": "",
+			"main_rating": 9.0,
+			"poster_url": "",
+			"title_ar": "المسلسل الأول",
+			"title_en": "The First Series"
+		},
+		"release_year": "2024"
 	}
 ]
