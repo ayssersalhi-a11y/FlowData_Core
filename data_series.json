@@ -97,7 +97,7 @@
 			"description": "",
 			"episodes": [
 				{
-					"number": 11,
+					"number": 11.0,
 					"title": "ذهب علي الى المدرسة ",
 					"url": ""
 				},
@@ -115,7 +115,7 @@
 			"special_items": [],
 			"video_url": ""
 		},
-		"id": 1,
+		"id": 1.0,
 		"main_scene": {
 			"imdb_logo_url": "",
 			"main_rating": 0.0,
