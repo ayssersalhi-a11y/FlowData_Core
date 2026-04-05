@@ -95,7 +95,18 @@
 			"background_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/photos/file_70.jpg",
 			"cast": [],
 			"description": "",
-			"episodes": [],
+			"episodes": [
+				{
+					"number": 11,
+					"title": "ذهب علي الى المدرسة ",
+					"url": ""
+				},
+				{
+					"number": "",
+					"title": "",
+					"url": ""
+				}
+			],
 			"highest_rank_logo_url": "",
 			"rating_section": {
 				"app_users_rating": 0.0,
