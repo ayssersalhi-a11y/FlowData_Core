@@ -211,17 +211,17 @@
 			"description": "",
 			"episodes": [
 				{
-					"number": 0,
+					"number": 0.0,
 					"title": "تللعو",
 					"url": ""
 				},
 				{
-					"number": 0,
+					"number": 0.0,
 					"title": "وومموةاتتللتز",
 					"url": ""
 				},
 				{
-					"number": 0,
+					"number": 0.0,
 					"title": "الب6ا",
 					"url": ""
 				}
@@ -234,11 +234,68 @@
 			"special_items": [],
 			"video_url": ""
 		},
-		"id": 12,
+		"id": 12.0,
 		"main_scene": {
 			"imdb_logo_url": "",
 			"main_rating": 0.0,
 			"poster_url": "",
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": ""
+	},
+	{
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "457890",
+			"background_url": "ةامماررىزز",
+			"cast": [
+				{
+					"actor_name": "",
+					"character_name": "",
+					"photo_url": ""
+				}
+			],
+			"description": "",
+			"episodes": [
+				{
+					"number": "",
+					"thumb_url": "",
+					"title": "",
+					"url": "LoreSection"
+				}
+			],
+			"lore_collections": {
+				"characters": [
+					{
+						"img": "",
+						"name": ""
+					}
+				],
+				"creatures": [
+					{
+						"img": "",
+						"name": ""
+					}
+				],
+				"special_elements": [
+					{
+						"img": "",
+						"name": ""
+					},
+					{
+						"img": "",
+						"name": ""
+					}
+				]
+			},
+			"video_url": "تاااا"
+		},
+		"id": 13,
+		"main_scene": {
+			"app_rating": 66.0,
+			"imdb_rating": 5.0,
+			"poster_url": "تلبييغنم97لل",
 			"title_ar": "",
 			"title_en": ""
 		},
