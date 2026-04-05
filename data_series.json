@@ -11,12 +11,12 @@
 			"description": "مسلسل درامي مشوق.",
 			"episodes": [
 				{
-					"number": 1,
+					"number": 1.0,
 					"title": "الحلقة الأولى",
 					"url": ""
 				},
 				{
-					"number": 2,
+					"number": 2.0,
 					"title": "الحلقة الثانية",
 					"url": ""
 				}
@@ -100,7 +100,7 @@
 			"description": "",
 			"episodes": [
 				{
-					"number": 11.0,
+					"number": "11.0",
 					"title": "ذهب علي الى المدرسة ",
 					"url": ""
 				},
@@ -118,7 +118,7 @@
 			"special_items": [],
 			"video_url": ""
 		},
-		"id": 1.0,
+		"id": "1.0",
 		"main_scene": {
 			"imdb_logo_url": "",
 			"main_rating": 0.0,
