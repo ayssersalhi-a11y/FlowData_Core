@@ -179,7 +179,7 @@
 			"description": "وسيم فالتوالات",
 			"episodes": [
 				{
-					"number": 0,
+					"number": 0.0,
 					"title": "",
 					"url": ""
 				}
@@ -192,7 +192,7 @@
 			"special_items": [],
 			"video_url": ""
 		},
-		"id": 2,
+		"id": 2.0,
 		"main_scene": {
 			"imdb_logo_url": "",
 			"main_rating": 7.0,
@@ -201,5 +201,47 @@
 			"title_en": "وسيم"
 		},
 		"release_year": "2006"
+	},
+	{
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"background_url": "",
+			"cast": [],
+			"description": "",
+			"episodes": [
+				{
+					"number": 0,
+					"title": "تللعو",
+					"url": ""
+				},
+				{
+					"number": 0,
+					"title": "وومموةاتتللتز",
+					"url": ""
+				},
+				{
+					"number": 0,
+					"title": "الب6ا",
+					"url": ""
+				}
+			],
+			"highest_rank_logo_url": "",
+			"rating_section": {
+				"app_users_rating": 0.0,
+				"highest_historical_rating": 10.0
+			},
+			"special_items": [],
+			"video_url": ""
+		},
+		"id": 12,
+		"main_scene": {
+			"imdb_logo_url": "",
+			"main_rating": 0.0,
+			"poster_url": "",
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": ""
 	}
 ]
