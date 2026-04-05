@@ -1,25 +1,28 @@
 [
 	{
-		"id": "mov_001",
-		"release_year": "2024",
-		"category_tags": ["أكشن", "مغامرة"],
-		"main_scene": {
-			"title_ar": "الفيلم الأول",
-			"title_en": "The First Movie",
-			"main_rating": 8.5,
-			"poster_url": "",
-			"imdb_logo_url": ""
-		},
+		"category_tags": [
+			"أكشن",
+			"مغامرة"
+		],
 		"details_scene": {
-			"description": "قصة رائعة عن المغامرة والإثارة.",
-			"video_url": "",
 			"ad_url": "",
+			"cast": [],
+			"description": "قصة رائعة عن المغامرة والإثارة.",
 			"rating_section": {
 				"app_users_rating": 8.5,
 				"highest_historical_rating": 10.0
 			},
-			"cast": [],
-			"special_items": []
-		}
+			"special_items": [],
+			"video_url": ""
+		},
+		"id": "mov_001",
+		"main_scene": {
+			"imdb_logo_url": "",
+			"main_rating": 8.5,
+			"poster_url": "",
+			"title_ar": "الفيلم الأول",
+			"title_en": "The First Movie"
+		},
+		"release_year": "2024"
 	}
 ]
