@@ -167,5 +167,39 @@
 			"title_en": "The First Series"
 		},
 		"release_year": "2024"
+	},
+	{
+		"category_tags": [
+			"acchen"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"background_url": "",
+			"cast": [],
+			"description": "وسيم فالتوالات",
+			"episodes": [
+				{
+					"number": 0,
+					"title": "",
+					"url": ""
+				}
+			],
+			"highest_rank_logo_url": "",
+			"rating_section": {
+				"app_users_rating": 7.0,
+				"highest_historical_rating": 10.0
+			},
+			"special_items": [],
+			"video_url": ""
+		},
+		"id": 2,
+		"main_scene": {
+			"imdb_logo_url": "",
+			"main_rating": 7.0,
+			"poster_url": "",
+			"title_ar": "وسيم",
+			"title_en": "وسيم"
+		},
+		"release_year": "2006"
 	}
 ]
