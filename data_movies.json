@@ -96,14 +96,40 @@
 			},
 			"video_url": ""
 		},
-		"id": 4,
+		"id": 4.0,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "",
+			"rating_icon_type": -1.0,
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": ""
+	},
+	{
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"background_url": "",
+			"cast": [],
+			"description": "",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"video_url": ""
+		},
+		"id": 5,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "",
 			"rating_icon_type": -1,
-			"title_ar": "",
-			"title_en": ""
+			"title_ar": "صالحي",
+			"title_en": "احمد"
 		},
 		"release_year": ""
 	}
