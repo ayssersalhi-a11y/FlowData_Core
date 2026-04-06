@@ -66,12 +66,38 @@
 			},
 			"video_url": ""
 		},
-		"id": 3,
+		"id": 3.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 6.0,
 			"poster_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/photos/file_78.jpg",
-			"rating_icon_type": 1,
+			"rating_icon_type": 1.0,
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": ""
+	},
+	{
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"background_url": "",
+			"cast": [],
+			"description": "func _setup_desc_buttons() -> void:\n\t# الوصول للحاوية (تأكد أن DescRow في Godot هي من نوع VBoxContainer)\n\tvar desc_row = $MainVBox/ScrollContainer/FormVBox/DescRow\n\t# الاسم (على اليمين)\n\tvar label = Label.new()\n\tlabel.text = \"وصف العنصر:\"\n\tlabel.size_flags_horizontal = Control.SIZE_EXPAND_FILL # ليدفع الأزرار لليسار\n\ttop_hbox.add_child(label)\n\t\n\t# حاوية الأزرار (على اليسار)\n\tvar btn_hbox = HBoxContainer.new()\n\ttop_hbox.add_child(btn_hbox)\n\t\n\t# زر النسخ\n\tvar copy_btn = Button.new()\n\tcopy_btn.text = \"📋 نسخ\"\n\tcopy_btn.custom_minimum_size = Vector2(80, 30)\n\tcopy_btn.pressed.connect(func():\n\t\tif not desc_edit.text.is_empty():\n\t\t\tDisplayServer.clipboard_set(desc_edit.text)\n\t\t\t_set_status(\"✅ تم نسخ الوصف\", Color.GREEN)\n\t)\n\t\n\t# زر اللصق\n\tvar paste_btn = Button.new()\n\tpaste_btn.text = \"📥 لصق\"\n\tpaste_btn.custom_minimum_size = Vector2(80, 30)\n\tpaste_btn.pressed.connect(func():\n\t\tvar clip = DisplayServer.clipboard_get()\n\t\tif not clip.is_empty():\n\t\t\tdesc_edit.text = clip\n\t\t\t_set_status(\"✅ تم لصق الوصف\", Color.GREEN)\n\t\t\t_trigger_auto_save()\n\t)\n\t\n\tbtn_hbox.add_child(copy_btn)\n\tbtn_hbox.add_child(paste_btn)\n\t\n\t# 2. تعديل صندوق النص (في الأسفل)\n\tdesc_edit.custom_minimum_size.y = 150 # جعل حجمه كبيراً نسبياً\n\tdesc_edit.size_flags_vertical = Control.SIZE_EXPAND_FILL\n\tdesc_edit.wrap_mode = TextEdit.LINE_WRAPPING_BOUNDARY # تفادي الخروج عن الحواف",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"video_url": "# 1. إنشاء السطر العلوي (العنوان + الأزرار)\n\tvar top_hbox = HBoxContainer.new()\n\ttop_hbox.size_flags_horizontal = Control.SIZE_EXPAND_FILL\n\tdesc_row.add_child(top_hbox)\n\tdesc_row.move_child(top_hbox, 0) # التأكد أنه في الأعلى"
+		},
+		"id": 4,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "",
+			"rating_icon_type": -1,
 			"title_ar": "",
 			"title_en": ""
 		},
