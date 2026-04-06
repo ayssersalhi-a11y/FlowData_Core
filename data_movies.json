@@ -92,7 +92,34 @@
 			},
 			"video_url": "# 1. إنشاء السطر العلوي (العنوان + الأزرار)\n\tvar top_hbox = HBoxContainer.new()\n\ttop_hbox.size_flags_horizontal = Control.SIZE_EXPAND_FILL\n\tdesc_row.add_child(top_hbox)\n\tdesc_row.move_child(top_hbox, 0) # التأكد أنه في الأعلى"
 		},
-		"id": 4,
+		"id": 4.0,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "",
+			"rating_icon_type": -1.0,
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"background_url": "",
+			"cast": [],
+			"description": "",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"video_url": ""
+		},
+		"id": 5,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
@@ -101,6 +128,7 @@
 			"title_ar": "",
 			"title_en": ""
 		},
-		"release_year": ""
+		"release_year": "",
+		"status": ""
 	}
 ]
