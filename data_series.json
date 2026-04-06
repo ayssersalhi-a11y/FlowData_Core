@@ -14,15 +14,43 @@
 			},
 			"video_url": ""
 		},
-		"id": 1,
+		"id": 1.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/photos/file_73.jpg",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "ايسر",
 			"title_en": ""
 		},
 		"release_year": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"background_url": "",
+			"cast": [],
+			"description": "",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"video_url": ""
+		},
+		"id": 2,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "",
+			"rating_icon_type": -1,
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": "",
+		"status": ""
 	}
 ]
