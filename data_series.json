@@ -41,7 +41,35 @@
 			},
 			"video_url": ""
 		},
-		"id": 2,
+		"id": 2.0,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "",
+			"rating_icon_type": -1.0,
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": "",
+		"status": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"background_url": "",
+			"cast": [],
+			"description": "",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"video_url": ""
+		},
+		"id": 3,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
