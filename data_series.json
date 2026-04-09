@@ -127,13 +127,13 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 4.0,
+		"id": 4,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "",
-			"rating_icon_type": -1.0,
-			"title_ar": "",
+			"rating_icon_type": -1,
+			"title_ar": "ايسور",
 			"title_en": ""
 		},
 		"release_year": "",
@@ -191,12 +191,12 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 4,
+		"id": 4.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "غتعتننن",
 			"title_en": ""
 		},
