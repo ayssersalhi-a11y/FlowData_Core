@@ -495,6 +495,60 @@
 			],
 			"video_url": "وتنوةلت"
 		},
+		"id": 10.0,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 56.0,
+			"poster_url": "عتنممممننن",
+			"rating_icon_type": -1.0,
+			"title_ar": "تالتمكنااا",
+			"title_en": "عاةظمالعمن"
+		},
+		"release_year": "2330",
+		"season_part_number": "61",
+		"status": "مكتمل",
+		"sub_type": "أنيميشن"
+	},
+	{
+		"age_rating": "+13",
+		"category_tags": [
+			"أكشن",
+			"دراما",
+			"كوميدي"
+		],
+		"details_scene": {
+			"ad_url": "وتواتا",
+			"audio_tracks": [
+				{
+					"lang": "العربية",
+					"url": "تؤتؤنءوساؤتء"
+				},
+				{
+					"lang": "الفرنسية",
+					"url": "عتتتننتغمم"
+				}
+			],
+			"background_url": "تتفااوخنز",
+			"cast": [],
+			"description": "تعنمكممننننن",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [
+				{
+					"lang": "الإسبانية",
+					"url": "تيتؤتين"
+				},
+				{
+					"lang": "اليابانية",
+					"url": "تتااتتتعع"
+				}
+			],
+			"video_url": "وتنوةلت"
+		},
 		"id": 10,
 		"main_scene": {
 			"app_rating": 0.0,
@@ -507,6 +561,6 @@
 		"release_year": "2330",
 		"season_part_number": "61",
 		"status": "مكتمل",
-		"sub_type": "أنيميشن"
+		"sub_type": "كرتون"
 	}
 ]
