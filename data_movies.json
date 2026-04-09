@@ -418,7 +418,12 @@
 		"category_tags": [],
 		"details_scene": {
 			"ad_url": "",
-			"audio_tracks": [],
+			"audio_tracks": [
+				{
+					"lang": "العربية",
+					"url": "تؤتؤنءوساؤتء"
+				}
+			],
 			"background_url": "",
 			"cast": [],
 			"description": "",
