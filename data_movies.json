@@ -205,7 +205,37 @@
 			},
 			"video_url": ""
 		},
-		"id": 7,
+		"id": 7.0,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "",
+			"rating_icon_type": -1.0,
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": "",
+		"season_part_number": "1",
+		"status": "",
+		"sub_type": "فيلم واقعي"
+	},
+	{
+		"age_rating": "",
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"background_url": "",
+			"cast": [],
+			"description": "",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"video_url": ""
+		},
+		"id": 8,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
@@ -215,8 +245,8 @@
 			"title_en": ""
 		},
 		"release_year": "",
-		"season_part_number": "1",
+		"season_part_number": "",
 		"status": "",
-		"sub_type": "فيلم واقعي"
+		"sub_type": ""
 	}
 ]
