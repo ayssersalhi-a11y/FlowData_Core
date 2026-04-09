@@ -581,13 +581,61 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 11,
+		"id": 11.0,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "",
+			"rating_icon_type": -1.0,
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": "",
+		"season_part_number": "",
+		"status": "",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "",
+			"cast": [
+				{
+					"actor_name": "",
+					"character_name": "تالممةاعز",
+					"photo_url": ""
+				}
+			],
+			"description": "",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [
+					{
+						"img": "وؤنينسن",
+						"name": "تؤزؤمسم"
+					}
+				],
+				"special_elements": [
+					{
+						"img": "",
+						"name": "تؤزسميك"
+					}
+				]
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 12,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "",
 			"rating_icon_type": -1,
-			"title_ar": "",
+			"title_ar": "نشالله يا ربي",
 			"title_en": ""
 		},
 		"release_year": "",
