@@ -341,6 +341,64 @@
 			],
 			"video_url": ""
 		},
+		"id": 9.0,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "",
+			"rating_icon_type": -1.0,
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": "",
+		"season_part_number": "",
+		"status": "",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [
+				{
+					"lang": "العربية",
+					"url": "حمار يجري"
+				},
+				{
+					"lang": "العربية",
+					"url": "دجاجة تركض"
+				},
+				{
+					"lang": "العربية",
+					"url": "حمار يجري"
+				},
+				{
+					"lang": "العربية",
+					"url": "دجاجة تركض"
+				}
+			],
+			"background_url": "",
+			"cast": [],
+			"description": "",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [
+				{
+					"lang": "العربية",
+					"url": "حمير تهرول"
+				},
+				{
+					"lang": "العربية",
+					"url": "حمير تهرول"
+				}
+			],
+			"video_url": ""
+		},
 		"id": 9,
 		"main_scene": {
 			"app_rating": 0.0,
