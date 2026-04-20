@@ -127,12 +127,12 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 4,
+		"id": 4.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "ايسور",
 			"title_en": ""
 		},
@@ -198,6 +198,63 @@
 			"poster_url": "",
 			"rating_icon_type": -1.0,
 			"title_ar": "غتعتننن",
+			"title_en": ""
+		},
+		"release_year": "",
+		"season_part_number": "",
+		"status": "",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "",
+			"cast": [
+				{
+					"actor_name": ""
+				}
+			],
+			"description": "",
+			"episodes": [
+				{
+					"number": 22,
+					"title": "",
+					"url": ""
+				}
+			],
+			"lore_collections": {
+				"characters": [
+					{
+						"name": ""
+					}
+				],
+				"creatures": [
+					{
+						"name": ""
+					}
+				],
+				"special_elements": [
+					{
+						"name": ""
+					},
+					{
+						"name": ""
+					}
+				]
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 5,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "",
+			"rating_icon_type": -1,
+			"title_ar": "",
 			"title_en": ""
 		},
 		"release_year": "",
