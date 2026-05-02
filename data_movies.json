@@ -26,10 +26,12 @@
 		"release_year": ""
 	},
 	{
+		"age_rating": "عام",
 		"category_tags": [],
 		"details_scene": {
 			"ad_url": "",
-			"background_url": "",
+			"audio_tracks": [],
+			"background_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/photos/file_107.jpg",
 			"cast": [],
 			"description": "",
 			"episodes": [],
@@ -38,18 +40,22 @@
 				"creatures": [],
 				"special_elements": []
 			},
+			"subtitles": [],
 			"video_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/videos/file_77.jpg"
 		},
-		"id": 2.0,
+		"id": 2,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "",
-			"rating_icon_type": -1.0,
+			"rating_icon_type": -1,
 			"title_ar": "",
 			"title_en": ""
 		},
-		"release_year": ""
+		"release_year": "",
+		"season_part_number": "1",
+		"status": "مكتمل",
+		"sub_type": "أنيميشن"
 	},
 	{
 		"category_tags": [],
@@ -629,12 +635,12 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 12,
+		"id": 12.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "نشالله يا ربي",
 			"title_en": ""
 		},
