@@ -763,12 +763,12 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 16,
+		"id": 16.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "",
 			"title_en": ""
 		},
@@ -795,12 +795,12 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 17.0,
+		"id": 17,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "",
-			"rating_icon_type": 0.0,
+			"rating_icon_type": 0,
 			"title_ar": "",
 			"title_en": ""
 		},
