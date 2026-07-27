@@ -795,12 +795,44 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 17,
+		"id": 17.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "",
-			"rating_icon_type": 0,
+			"rating_icon_type": 0.0,
+			"title_ar": "",
+			"title_en": ""
+		},
+		"release_year": "",
+		"season_part_number": "",
+		"status": "",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "",
+			"cast": [],
+			"description": "",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": "https://streamtape.com/v/gRv3GDkoK6TxjK/Video_2026-07-10_08_44_53.mp4"
+		},
+		"id": 18,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "",
+			"rating_icon_type": -1,
 			"title_ar": "",
 			"title_en": ""
 		},
