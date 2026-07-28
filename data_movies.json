@@ -9,7 +9,7 @@
 		"details_scene": {
 			"ad_url": "https://streamtape.com/v/9v6vx8x3L7UarO7/YouCut_20260715_115821682_%281%29.mp4",
 			"audio_tracks": [],
-			"background_url": "",
+			"background_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/photos/file_109.jpg",
 			"cast": [
 				{
 					"actor_name": ""
@@ -54,7 +54,7 @@
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 7.5,
-			"poster_url": "",
+			"poster_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/photos/file_109.jpg",
 			"rating_icon_type": 0,
 			"title_ar": "تنانين سباق الى الحافة",
 			"title_en": "Dragon"
