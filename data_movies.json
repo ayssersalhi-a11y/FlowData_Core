@@ -7,10 +7,14 @@
 			"خيال"
 		],
 		"details_scene": {
-			"ad_url": "",
+			"ad_url": "https://streamtape.com/v/9v6vx8x3L7UarO7/YouCut_20260715_115821682_%281%29.mp4",
 			"audio_tracks": [],
 			"background_url": "",
-			"cast": [],
+			"cast": [
+				{
+					"actor_name": ""
+				}
+			],
 			"description": "مغامرات حازوفة والاصدقاء",
 			"episodes": [],
 			"lore_collections": {
@@ -19,7 +23,7 @@
 				"special_elements": []
 			},
 			"subtitles": [],
-			"video_url": ""
+			"video_url": "https://streamtape.com/v/7k771MkPpXuMyY/Video_2026-07-10_08_44_53.mp4"
 		},
 		"id": 1,
 		"main_scene": {
