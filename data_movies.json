@@ -13,16 +13,41 @@
 			"cast": [
 				{
 					"actor_name": ""
+				},
+				{
+					"actor_name": ""
 				}
 			],
 			"description": "مغامرات حازوفة والاصدقاء",
 			"episodes": [],
 			"lore_collections": {
-				"characters": [],
-				"creatures": [],
-				"special_elements": []
+				"characters": [
+					{
+						"name": ""
+					}
+				],
+				"creatures": [
+					{
+						"name": ""
+					}
+				],
+				"special_elements": [
+					{
+						"name": ""
+					}
+				]
 			},
-			"subtitles": [],
+			"subtitles": [
+				{
+					"abilities_names": [],
+					"cast_names": [],
+					"creatures_names": [],
+					"elements_names": [],
+					"episodes_names": [],
+					"lang": "العربية",
+					"url": "التنمةىاةت"
+				}
+			],
 			"video_url": "https://streamtape.com/v/7k771MkPpXuMyY/Video_2026-07-10_08_44_53.mp4"
 		},
 		"id": 1,
