@@ -1,3 +1,38 @@
 [
-	
+	{
+		"age_rating": "عائلي",
+		"category_tags": [
+			"أكشن",
+			"مغامرة",
+			"خيال"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "",
+			"cast": [],
+			"description": "مغامرات حازوفة والاصدقاء",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 1,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 7.5,
+			"poster_url": "",
+			"rating_icon_type": 0,
+			"title_ar": "تنانين سباق الى الحافة",
+			"title_en": "Dragon"
+		},
+		"release_year": "2018",
+		"season_part_number": "2",
+		"status": "مكتمل",
+		"sub_type": "أنيميشن"
+	}
 ]
