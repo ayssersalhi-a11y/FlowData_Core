@@ -50,12 +50,12 @@
 			],
 			"video_url": "https://streamtape.com/v/7k771MkPpXuMyY/Video_2026-07-10_08_44_53.mp4"
 		},
-		"id": 1,
+		"id": 1.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 7.5,
 			"poster_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/photos/file_111.jpg",
-			"rating_icon_type": 0,
+			"rating_icon_type": 0.0,
 			"title_ar": "تنانين سباق الى الحافة",
 			"title_en": "Dragon"
 		},
@@ -63,5 +63,40 @@
 		"season_part_number": "2",
 		"status": "مكتمل",
 		"sub_type": "أنيميشن"
+	},
+	{
+		"age_rating": "عام",
+		"category_tags": [
+			"خيال",
+			"غموض"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/photos/file_113.jpg",
+			"cast": [],
+			"description": "نىتننم",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": "https://streamtape.com/v/03Aag7JaA6U06r/Azzedin_Azzedin_-_%F0%9F%92%94%F0%9F%92%94%F0%9F%98%8D%28720P_HD%29.mp4"
+		},
+		"id": 2,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 6.7,
+			"poster_url": "https://api.telegram.org/file/bot8550377371:AAFfM417ry_nOX-0NxzElYSV8WGSUpNbyC0/photos/file_112.jpg",
+			"rating_icon_type": 0,
+			"title_ar": "كونفو باندا",
+			"title_en": "كون"
+		},
+		"release_year": "2345",
+		"season_part_number": "1",
+		"status": "مكتمل",
+		"sub_type": "كرتون"
 	}
 ]
