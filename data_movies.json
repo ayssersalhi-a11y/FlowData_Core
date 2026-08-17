@@ -117,14 +117,46 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 3,
+		"id": 3.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 0.0,
 			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/e_gen_remove:prompt_(dragonnest%20warrior's%20dawn%20from%20the%20producer%20of%20hugh%20school)/e_improve,e_auto_color,e_sharpen/v1787006192/khayal_edits/lj8m2roanm3z0ofrz6mz.jpg",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "عش التنين: فجر المحاربين",
 			"title_en": "Dragon Nest: Warriors' Dawn"
+		},
+		"release_year": "",
+		"season_part_number": "",
+		"status": "",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "https://res.cloudinary.com/o5mvutbf/image/upload/e_blur:800/v1787007241/khayal_edits/gh9f4rcibqdrlhgxhmj2.jpg",
+			"cast": [],
+			"description": "",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 4,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 0.0,
+			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/e_gen_remove:prompt_(dragonnest%20warrior's%20dawn%20from%20the%20producer%20of%20hugh%20school)/e_improve,e_auto_color,e_sharpen/v1787006192/khayal_edits/lj8m2roanm3z0ofrz6mz.jpg",
+			"rating_icon_type": 0,
+			"title_ar": "العربية",
+			"title_en": ""
 		},
 		"release_year": "",
 		"season_part_number": "",
