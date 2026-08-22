@@ -1,1 +1,41 @@
-
+[
+	{
+		"age_rating": "للأطفال",
+		"category_tags": [
+			"مغامرة",
+			"خيال"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "",
+			"cast": [
+				{
+					"actor_name": ""
+				}
+			],
+			"description": "فتى مراهق خجول من عشيرة حماة التنانين يدعى \"حازوقة\"، يطمح لأن يصبح قاتل تنانين ليثبت نفسه لوعرة قبيلته وأبيه. ولكن عندما يصطاد تنينًا نادراً من نوع \"غضب الليل\" ويصادقه ويطلق عليه اسم \"أبو سن\"، تتغير نظرته بالكامل ويبدأ في إثبات أن التنانين ليست سوى كائنات مفترسة مظلوم",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 1,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 8.1,
+			"poster_url": "",
+			"rating_icon_type": -1,
+			"title_ar": "كيف تروض تنينك 1",
+			"title_en": "How to Train Your Dragon 1"
+		},
+		"release_year": "2010",
+		"season_part_number": "1",
+		"status": "مكتمل",
+		"sub_type": "أنيميشن"
+	}
+]
