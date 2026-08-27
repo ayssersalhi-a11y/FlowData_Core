@@ -24,12 +24,12 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 1,
+		"id": 1.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 8.1,
 			"poster_url": "",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "كيف تروض تنينك 1",
 			"title_en": "How to Train Your Dragon 1"
 		},
@@ -37,5 +37,60 @@
 		"season_part_number": "1",
 		"status": "مكتمل",
 		"sub_type": "أنيميشن"
+	},
+	{
+		"age_rating": "للأطفال",
+		"category_tags": [
+			"دراما",
+			"رومنسية"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "https://res.cloudinary.com/o5mvutbf/image/upload/e_gen_remove:region_((x_300;y_1910;w_1354;h_1057))/e_blur:800/khayal_edits/g37owoiucftsgo5nhrwf",
+			"cast": [
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				}
+			],
+			"description": "يتغير كل شيء عندما تتخذ تيسا أكبر قرار في حياتها بالكشف عن أسرار عائلتها، ثم يتبعها هاردين فيُصبح عليهما الكفاح من أجل علاقتهما وطريقهما شديد الصعوبة.",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 2,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 7.0,
+			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/e_gen_remove:region_((x_300;y_1910;w_1354;h_1057))/v1787835007/khayal_edits/g37owoiucftsgo5nhrwf.jpg",
+			"rating_icon_type": 0,
+			"title_ar": "بعد سقوطنا",
+			"title_en": "After We Fell",
+			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg"
+		},
+		"release_year": "2021",
+		"season_part_number": "",
+		"status": "مكتمل",
+		"sub_type": ""
 	}
 ]
