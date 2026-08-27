@@ -47,8 +47,11 @@
 		"details_scene": {
 			"ad_url": "",
 			"audio_tracks": [],
-			"background_url": "https://res.cloudinary.com/o5mvutbf/image/upload/e_gen_remove:region_((x_300;y_1910;w_1354;h_1057))/e_blur:800/khayal_edits/g37owoiucftsgo5nhrwf",
+			"background_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_auto,q_auto/e_gen_remove:region_((x_300;y_1910;w_1354;h_1057))/e_blur:800/khayal_edits/g37owoiucftsgo5nhrwf",
 			"cast": [
+				{
+					"actor_name": ""
+				},
 				{
 					"actor_name": ""
 				},
