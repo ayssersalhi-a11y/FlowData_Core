@@ -1,20 +1,6 @@
 {
-  "status": "done",
-  "request_id": "1787821954.81648",
-  "timestamp": "2026-08-27 11:35:27",
-  "session_started_at": "2026-08-27 09:12:09",
-  "source_url": "https://www.reelshort.com/ar/episodes/episode-1-%D9%84%D8%A7-%D8%B4%D9%8A%D8%A1-%D9%8A%D8%AE%D9%81%D9%89-%D8%B9%D9%86-%D8%B9%D9%8A%D9%86%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D9%82%D8%A9-6a4b754be280cdb2a20cf0d8-qefgis7wop?play_time=1",
-  "raw_links_count": 147,
-  "episode_links": [
-    "https://v-mps.crazymaplestudios.com/vod-112094/803152227f7171f1bffef6f6d65a0102/ad84c90b85d44f2487d2b6c53fbb477a-0ba031e528b3614e2ffe788a84da6e1b-sd.m3u8",
-    "https://v-mps.crazymaplestudios.com/vod-112094/b00f5c287f7171f1bfafe6e7c64b0102/466de88430784d59a2753e56ecd0c7b0-eb836337082065ef73687390b99fca42-sd.m3u8",
-    "https://v-mps.crazymaplestudios.com/vod-112094/707a45287f7171f19799e7e7c7690102/7df11953bc124d7184613b3a7c654e4c-84de634edf7b22264d9b7f4da68d5bfc-sd.m3u8",
-    "https://v-mps.crazymaplestudios.com/vod-112094/b01646287f7171f1bffef6f6d65a0102/cd670e81bb144b93bcc37aafa67edd7a-cb1ab5d36aa57789578d91d0af540455-sd.m3u8",
-    "https://v-mps.crazymaplestudios.com/vod-112094/102051227f7171f19d39e6f7e47a0102/b775d78587774a03bab023263bfcb330-543b011fffee2fbed4329bbf01805497-sd.m3u8",
-    "https://v-mps.crazymaplestudios.com/vod-112094/70994f227f7171f19799e7e7c7690102/82a86d78cb674613a0aa418c49ac95f6-0eeb59f10506c266b15b29332aa5709f-sd.m3u8",
-    "https://v-mps.crazymaplestudios.com/vod-112094/506a591c7f7171f1bfb0e6f6c55b0102/174aa358e63a449194fa4bda8b8c0f6e-267aaebc0f58ee7cd409fdde21968654-sd.m3u8",
-    "https://v-mps.crazymaplestudios.com/vod-112094/304f47287f7171f19b0df7e7c57a0102/b063315a22584688a084f8b459cf96cd-ee031a77962665dcc76d95c03e7b2364-sd.m3u8",
-    "https://v-mps.crazymaplestudios.com/vod-112094/c00949227f7171f1b221e7e7f57a0102/f6b3dbd4c2954bac935cc2a7a7f09c9b-4c4cd6fb057ccb71a88f9a2d2f6ec9db-sd.m3u8",
-    "https://v-mps.crazymaplestudios.com/vod-112094/709840287f7171f1bffef6f6d65a0102/40128997a6e7415684240c05723f98af-103a7172a5a7e039cd00e8c6c855a3cd-sd.m3u8"
-  ]
+  "status": "running",
+  "request_id": "1787826871.18556",
+  "url": "https://www.reelshort.com/ar/episodes/episode-1-%D9%84%D8%A7-%D8%B4%D9%8A%D8%A1-%D9%8A%D8%AE%D9%81%D9%89-%D8%B9%D9%86-%D8%B9%D9%8A%D9%86%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D9%82%D8%A9-6a4b754be280cdb2a20cf0d8-qefgis7wop?play_time=1",
+  "session_started_at": "2026-08-27 09:12:09"
 }
