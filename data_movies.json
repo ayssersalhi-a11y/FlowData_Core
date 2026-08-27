@@ -81,17 +81,74 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 2,
+		"id": 2.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 7.0,
 			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/e_gen_remove:region_((x_300;y_1910;w_1354;h_1057))/v1787835007/khayal_edits/g37owoiucftsgo5nhrwf.jpg",
-			"rating_icon_type": 0,
+			"rating_icon_type": 0.0,
 			"title_ar": "بعد سقوطنا",
 			"title_en": "After We Fell",
 			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg"
 		},
 		"release_year": "2021",
+		"season_part_number": "",
+		"status": "مكتمل",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "للأطفال",
+		"category_tags": [
+			"فانتازيا",
+			"عائلي",
+			"حركة",
+			"مغامرة"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_auto,q_auto/f_webp/e_gen_remove:region_((x_454;y_499;w_854;h_545))/e_gen_remove:region_((x_107;y_628;w_1221;h_365))/e_blur:800/khayal_edits/kagtydkhbpstiqrlj8dd",
+			"cast": [
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				}
+			],
+			"description": "يحاول فتى شاب ينتمي لشعب الفايكنج شق طريقه في عالم صيد التنانين وإثبات جدارته وسط شعبه وعائلته، ولكن تتسبب صدفه بحتة في بداية صداقة قوية بينه وبين تنين صغير.",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 3,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 7.9,
+			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp/e_gen_remove:region_((x_454;y_499;w_854;h_545))/e_gen_remove:region_((x_107;y_628;w_1221;h_365))/v1787835473/khayal_edits/kagtydkhbpstiqrlj8dd.webp",
+			"rating_icon_type": 0,
+			"title_ar": "كيف تروض تنينك",
+			"title_en": "How to Train Your Dragon",
+			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/gVcEL1xUFsaYkL32tZ6m4cqeKRh.jpg"
+		},
+		"release_year": "2025",
 		"season_part_number": "",
 		"status": "مكتمل",
 		"sub_type": ""
