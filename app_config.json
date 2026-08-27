@@ -25,5 +25,6 @@
 	"tg_chat_id_equipment": "",
 	"tg_chat_id_movies": "",
 	"tg_chat_id_series": "",
-	"tg_chat_id_subtitles": ""
+	"tg_chat_id_subtitles": "",
+	"tmdb_api_key": "2011a7027f18eb7bfb029ddef4c13b7d"
 }
