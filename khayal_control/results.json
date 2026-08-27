@@ -1,6 +1,7 @@
 {
-  "status": "running",
+  "status": "error",
   "request_id": "1787821954.81648",
-  "url": "https://www.reelshort.com/ar/episodes/episode-1-%D9%84%D8%A7-%D8%B4%D9%8A%D8%A1-%D9%8A%D8%AE%D9%81%D9%89-%D8%B9%D9%86-%D8%B9%D9%8A%D9%86%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D9%82%D8%A9-6a4b754be280cdb2a20cf0d8-qefgis7wop?play_time=1",
-  "session_started_at": "2026-08-27 09:13:31"
+  "timestamp": "2026-08-27 09:20:37",
+  "session_started_at": "2026-08-27 09:13:31",
+  "error": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_58/1255357995.py\", line 378, in worker_loop\n    urls = await find_video_links_auto_episodes(start_url, start_from, max_episodes)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/tmp/ipykernel_58/1255357995.py\", line 337, in find_video_links_auto_episodes\n    await try_click_episode(page, num)\n  File \"/tmp/ipykernel_58/1255357995.py\", line 239, in try_click_episode\n    await page.screenshot(path=shot_path)\n  File \"/usr/local/lib/python3.12/dist-packages/playwright/async_api/_generated.py\", line 10842, in screenshot\n    await self._impl_obj.screenshot(\n  File \"/usr/local/lib/python3.12/dist-packages/playwright/_impl/_page.py\", line 828, in screenshot\n    encoded_binary = await self._channel.send(\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/playwright/_impl/_connection.py\", line 76, in send\n    return await self._connection.wrap_api_call(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/playwright/_impl/_connection.py\", line 632, in wrap_api_call\n    raise rewrite_error(error, f\"{parsed_st['apiName']}: {error}\") from None\nplaywright._impl._errors.Error: Page.screenshot: Protocol error (Page.captureScreenshot): Unable to capture screenshot\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n\n"
 }
