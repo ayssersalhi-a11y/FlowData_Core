@@ -1,11 +1,4 @@
 {
-  "status": "done",
-  "request_id": "1787909374.91281",
-  "timestamp": "2026-08-28 10:19:39",
-  "session_started_at": "2026-08-27 23:46:09",
-  "source_url": "https://reelree.com/%d8%a7%d9%84%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%af%d9%8a%d8%b1-%d8%a7%d9%84%d8%a7%d8%a8-%d8%b9%d8%a7%d9%85%d9%84-%d8%a7%d9%84%d8%aa%d9%88-dw-703npafgfo/",
-  "raw_links_count": 893,
-  "episode_links": [
-    "https://p1-s100-d2.s1q2105.com/hls/swfR5fO905750ltmqiKgXVxEEGDAJgTe/index_480x854.m3u8?token=b75fbc98ee879f3a8046c628a677ff1c-1787938007-2a02%3A4780%3A7e%3Afd82%3A%3A1-7ee00bdc9c52a7e92db5d9ec572bd3425416c99a767c8ef6b2bacb5789d11490"
-  ]
+  "status": "session_started",
+  "session_started_at": "2026-08-28 23:49:25"
 }
