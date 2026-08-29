@@ -10,6 +10,7 @@
 	"kaggle2_username": "",
 	"kaggle3_key": "",
 	"kaggle3_username": "",
+	"render_ws_url": "",
 	"repo_owner": "ayssersalhi-a11y",
 	"repo_repo": "FlowData_Core",
 	"streamtape_key": "V8dpJjkajghKBzj",
@@ -26,5 +27,5 @@
 	"tg_chat_id_movies": "",
 	"tg_chat_id_series": "",
 	"tg_chat_id_subtitles": "",
-	"tmdb_api_key": "2011a7027f18eb7bfb029ddef4c13b7d"
+	"tmdb_api_key": ""
 }
