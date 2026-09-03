@@ -138,18 +138,74 @@
 			"subtitles": [],
 			"video_url": "https://streamtape.com/v/VrAGjGgWJjuPPp/ba738382510b2b4bb205d2de3cfdf786.mp4"
 		},
-		"id": 3,
+		"id": 3.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 7.9,
 			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp/e_gen_remove:region_((x_454;y_499;w_854;h_545))/e_gen_remove:region_((x_107;y_628;w_1221;h_365))/v1787835473/khayal_edits/kagtydkhbpstiqrlj8dd.webp",
-			"rating_icon_type": 0,
+			"rating_icon_type": 0.0,
 			"title_ar": "كيف تروض تنينك",
 			"title_en": "How to Train Your Dragon"
 		},
 		"release_year": "2025",
 		"season_part_number": "",
 		"status": "مكتمل",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [
+			"رسوم متحركة",
+			"عائلي",
+			"دراما"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_400;y_78;w_529;h_259))/e_gen_remove:region_((x_141;y_352;w_1083;h_250))/e_gen_remove:region_((x_420;y_250;w_562;h_137))/e_blur:800/v1788458645/khayal_edits/ibgcgwnt3mnw7eavvy4y.webp",
+			"cast": [
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				}
+			],
+			"description": "أسد أمير صغير يطرد من أرضه من قبل عمه القاسي، الذي يدعي أنه كان السبب في موت والده. بينما يحكم العم المملكة بمخلب من حديد، يكبر الأمير خارج السافانا، ويعيش وفقًا لفلسفة \"هاكونا ماتاتا\"، أي أن تنسى الماضي ولا تقلق. لكن عندما يطارده ماضيه، يجب على الأمير الشاب أن يقرر مصيره: هل سيبقى منبوذاً أم يواجه مخاوفه ويصبح ما يحتاج إليه؟",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 4,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 8.3,
+			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_400;y_78;w_529;h_259))/e_gen_remove:region_((x_141;y_352;w_1083;h_250))/e_gen_remove:region_((x_420;y_250;w_562;h_137))/v1788458645/khayal_edits/ibgcgwnt3mnw7eavvy4y.webp",
+			"rating_icon_type": -1,
+			"title_ar": "الأسد الملك",
+			"title_en": "The Lion King",
+			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/l0DfggxJn89s0hOv8vVK6fa1QCX.jpg"
+		},
+		"release_year": "1994",
+		"season_part_number": "",
+		"status": "",
 		"sub_type": ""
 	}
 ]
