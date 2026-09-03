@@ -316,17 +316,74 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 6,
+		"id": 6.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 7.3,
 			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_876;y_978;w_223;h_412))/e_gen_remove:region_((x_885;y_2114;w_372;h_549))/e_gen_remove:region_((x_574;y_2296;w_853;h_605))/v1788460091/khayal_edits/s0jfscocectsiftysfwk.webp",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "الأسد الملك∶ موفاسا",
 			"title_en": "Mufasa: The Lion King",
 			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/eheaWJVqU5DiElOm5Nfbu0eKqoj.jpg"
 		},
 		"release_year": "2024",
+		"season_part_number": "",
+		"status": "",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [
+			"مغامرة",
+			"رسوم متحركة",
+			"كوميديا",
+			"عائلي"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_185;y_446;w_1698;h_523))/e_gen_remove:region_((x_549;y_122;w_888;h_369))/e_blur:800/e_blur:800/e_blur:800/v1788461424/khayal_edits/jna4eado2ggofe3yoaxp.webp",
+			"cast": [
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				}
+			],
+			"description": "تيمون النمس وبومبا الخنزير هم صديقان صدوقان والأبطال المجهولين في السافانا الأفريقية. يعيدك هذا الفيلم المرسوم إلى الوراء - الوراء جداً - قبل أن تبدأ مغامرة سِمبا. سوف تكتشف كل شيء عن تيمون وبومبا وتشاركهم مغامرتهم أثناء بحثهم عن المنزل المثالي ومحاولة تربية شبل أسد متقلب.",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 7,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 6.6,
+			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_185;y_446;w_1698;h_523))/e_gen_remove:region_((x_549;y_122;w_888;h_369))/v1788461424/khayal_edits/jna4eado2ggofe3yoaxp.webp",
+			"rating_icon_type": -1,
+			"title_ar": "الاسد الملك ٣∶ هاكونا ماتاتا",
+			"title_en": "The Lion King 1½",
+			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/xzwXmTmgK39tLzSdUjNIRU6ixHh.jpg"
+		},
+		"release_year": "2004",
 		"season_part_number": "",
 		"status": "",
 		"sub_type": ""
