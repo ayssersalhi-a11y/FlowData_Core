@@ -193,17 +193,84 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 4,
+		"id": 4.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 8.3,
 			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_400;y_78;w_529;h_259))/e_gen_remove:region_((x_141;y_352;w_1083;h_250))/e_gen_remove:region_((x_420;y_250;w_562;h_137))/v1788458645/khayal_edits/ibgcgwnt3mnw7eavvy4y.webp",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "الأسد الملك",
 			"title_en": "The Lion King",
 			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/l0DfggxJn89s0hOv8vVK6fa1QCX.jpg"
 		},
 		"release_year": "1994",
+		"season_part_number": "",
+		"status": "",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [
+			"مغامرة",
+			"دراما",
+			"عائلي",
+			"رسوم متحركة"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_61;y_905;w_869;h_202))/v1788459381/khayal_edits/la2j3zqq4fxebowzm4an.webp",
+			"cast": [
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				}
+			],
+			"description": "يخوض الشبل سيمبا رحلة طويلة مع العالم والذات بعد موت والده موفاسا غدرًا على يد سكار شقيقه الطامع في السلطة في سبيل بسط نفوذه على صخرة العزة، ويعيش هائمًا على وجهه إلى أن تلوح في اﻷفق رياح تغيير الماضي اﻷليم.",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [
+					{
+						"name": ""
+					},
+					{
+						"name": ""
+					}
+				],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 5,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 7.1,
+			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_61;y_905;w_869;h_202))/v1788459381/khayal_edits/la2j3zqq4fxebowzm4an.webp",
+			"rating_icon_type": -1,
+			"title_ar": "الاسد الملك",
+			"title_en": "The Lion King",
+			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/j3N0WLDGElNtdIguQfqNtdSxqn5.jpg"
+		},
+		"release_year": "2019",
 		"season_part_number": "",
 		"status": "",
 		"sub_type": ""
