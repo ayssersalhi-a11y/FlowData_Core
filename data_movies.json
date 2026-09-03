@@ -260,17 +260,73 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 5,
+		"id": 5.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 7.1,
 			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_61;y_905;w_869;h_202))/v1788459381/khayal_edits/la2j3zqq4fxebowzm4an.webp",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "الاسد الملك",
 			"title_en": "The Lion King",
 			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/j3N0WLDGElNtdIguQfqNtdSxqn5.jpg"
 		},
 		"release_year": "2019",
+		"season_part_number": "",
+		"status": "",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [
+			"مغامرة",
+			"عائلي",
+			"رسوم متحركة"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "",
+			"cast": [
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				}
+			],
+			"description": "استكشفوا رحلة الصعود غير المرتقبة لملك أرض العزة المحبوب.  موفاسا، الشبل الضائع وحيدًا، يلتقي بأسد متعاطف يُدعى تاكا، وريث السلالة الملكية. يُطلق هذا اللقاء الصدفي رحلةً طويلةً لمجموعة من المنبوذين يبحثون عن مصيرهم.",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 6,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 7.3,
+			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_876;y_978;w_223;h_412))/e_gen_remove:region_((x_885;y_2114;w_372;h_549))/e_gen_remove:region_((x_574;y_2296;w_853;h_605))/v1788460091/khayal_edits/s0jfscocectsiftysfwk.webp",
+			"rating_icon_type": -1,
+			"title_ar": "الأسد الملك∶ موفاسا",
+			"title_en": "Mufasa: The Lion King",
+			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/eheaWJVqU5DiElOm5Nfbu0eKqoj.jpg"
+		},
+		"release_year": "2024",
 		"season_part_number": "",
 		"status": "",
 		"sub_type": ""
