@@ -397,7 +397,7 @@ async def _manual_on_response(response):
 async def _manual_try_click_text(text: str) -> bool:
     """
     يحاول العثور على عنصر يحتوي هذا النص بالضبط أولًا، ثم بشكل جزئي إن
-    لم يُعثر عليه، ثم يضغط عليه بعدة استراتيجيات (بنفس أسلوب try_click_episode).
+    لم يُعثر عليه، ثم يضغط عليه بعددة استراتيجيات (بنفس أسلوب try_click_episode).
     """
     locators = [
         _manual_page.locator(f"text=/^{re.escape(text)}$/").first,
