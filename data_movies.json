@@ -373,17 +373,75 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 7,
+		"id": 7.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 6.6,
 			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_185;y_446;w_1698;h_523))/e_gen_remove:region_((x_549;y_122;w_888;h_369))/v1788461424/khayal_edits/jna4eado2ggofe3yoaxp.webp",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "الاسد الملك ٣∶ هاكونا ماتاتا",
 			"title_en": "The Lion King 1½",
 			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/xzwXmTmgK39tLzSdUjNIRU6ixHh.jpg"
 		},
 		"release_year": "2004",
+		"season_part_number": "",
+		"status": "",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [
+			"مغامرة",
+			"رسوم متحركة",
+			"دراما",
+			"عائلي",
+			"رومنسية"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "",
+			"cast": [
+				{
+					"actor_name": "https://image.tmdb.org/t/p/w300/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
+				},
+				{
+					"actor_name": "https://image.tmdb.org/t/p/w300/zQzNg6Kiufj2VCltprI6jilNtl3.jpg"
+				},
+				{
+					"actor_name": "https://image.tmdb.org/t/p/w300/53aVh2ka0b4ZyR8dO8hBTQxQ9hc.jpg"
+				},
+				{
+					"actor_name": "https://image.tmdb.org/t/p/w300/jLPp3RoDhwOpLimKj3NhhBofPfT.jpg"
+				},
+				{
+					"actor_name": "https://image.tmdb.org/t/p/w300/rALAxs5zUfQS3bZrEcns86gCHwI.jpg"
+				},
+				{
+					"actor_name": "https://image.tmdb.org/t/p/w300/n4WT4oYoYrzSGAanlWPsneCzBPk.jpg"
+				}
+			],
+			"description": "سِمبا يحاول بجديةٍ حماية ابنته كيارا من الخطر الذي يعتبر كوفو (خليفة سكار) جزءًا منه، أما بالنسبة لكيارا فإنها تصر على المضي قدمًا في حياتها دون مراقبة والدها أو تيمون وبومبا لها. أما كوفو الذي تربى منذ الصغر على كره سِمبا وأعدت أمه زيرا خطة الانتقام الكبير عبر كيارا يجد نفسه بين عهده لأمه وحبه لكيارا ويحتم عليه الاختيار.",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 8,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 6.9,
+			"poster_url": "",
+			"rating_icon_type": -1,
+			"title_ar": "الاسد الملك ٢∶ عهد سمبا",
+			"title_en": "The Lion King II: Simba's Pride",
+			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/iWvjFCOiBlo1kEVhERm29BzkaFi.jpg"
+		},
+		"release_year": "1998",
 		"season_part_number": "",
 		"status": "",
 		"sub_type": ""
