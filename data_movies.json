@@ -431,17 +431,71 @@
 			"subtitles": [],
 			"video_url": ""
 		},
-		"id": 8,
+		"id": 8.0,
 		"main_scene": {
 			"app_rating": 0.0,
 			"imdb_rating": 6.9,
 			"poster_url": "",
-			"rating_icon_type": -1,
+			"rating_icon_type": -1.0,
 			"title_ar": "الاسد الملك ٢∶ عهد سمبا",
 			"title_en": "The Lion King II: Simba's Pride",
 			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/iWvjFCOiBlo1kEVhERm29BzkaFi.jpg"
 		},
 		"release_year": "1998",
+		"season_part_number": "",
+		"status": "",
+		"sub_type": ""
+	},
+	{
+		"age_rating": "",
+		"category_tags": [
+			"وثائقي"
+		],
+		"details_scene": {
+			"ad_url": "",
+			"audio_tracks": [],
+			"background_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_82;y_901;w_1777;h_779))/e_blur:800/v1788688872/khayal_edits/pbviefpyzq2zy8uq0cev.webp",
+			"cast": [
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				},
+				{
+					"actor_name": ""
+				}
+			],
+			"description": "",
+			"episodes": [],
+			"lore_collections": {
+				"characters": [],
+				"creatures": [],
+				"special_elements": []
+			},
+			"subtitles": [],
+			"video_url": ""
+		},
+		"id": 9,
+		"main_scene": {
+			"app_rating": 0.0,
+			"imdb_rating": 8.0,
+			"poster_url": "https://res.cloudinary.com/o5mvutbf/image/upload/f_webp,q_auto:good/e_gen_remove:region_((x_82;y_901;w_1777;h_779))/v1788688872/khayal_edits/pbviefpyzq2zy8uq0cev.webp",
+			"rating_icon_type": -1,
+			"title_ar": "Pride of The Lion King",
+			"title_en": "Pride of The Lion King",
+			"tmdb_poster_url": "https://image.tmdb.org/t/p/original/22u305yicBniAgMI1AodU2dm0wE.jpg"
+		},
+		"release_year": "2011",
 		"season_part_number": "",
 		"status": "",
 		"sub_type": ""
